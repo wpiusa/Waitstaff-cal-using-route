@@ -1,0 +1,25 @@
+/* Styles go here */
+
+body {
+  margin: 4em;
+}
+.bigga { 
+  font-size: 3em
+}
+p {
+  border: gray solid .1em;
+  padding: 1em;
+  border-radius: 20px;
+}
+.center { 
+    position: absolute;
+    height: 200px;
+    width: 500px;
+    margin: -100px 0 0 -200px;
+    top: 20%;
+    left: 50%;
+}
+.center_header{
+  text-align: center
+}
+
